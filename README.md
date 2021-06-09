@@ -2,8 +2,23 @@
 
 RBP4
 
-```chmod +777 install.sh```
+## Create a Python Environment
+```
+$ python3 -m venv venv
 
-```sh install.sh```
+$ source venv\bin\activate
 
-```python3 detect_mask_video.py```
+```
+
+## Run installer
+```
+$ chmod +777 install.sh
+
+$ sh install.sh
+
+```
+
+## Run script
+```
+$ python3 detect_mask_video.py
+```
