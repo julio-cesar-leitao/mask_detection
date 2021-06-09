@@ -1,6 +1,11 @@
 # mask_detection
 
-RBP4
+## Tested on Raspberry Pi 4
+```
+$ uname -a
+
+Linux raspberrypi 5.10.17-v7l+ #1421 SMP Thu May 27 14:00:13 BST 2021 armv7l GNU/Linux
+```
 
 ## Create a Python Environment
 ```
